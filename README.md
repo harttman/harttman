@@ -8,8 +8,8 @@
 
 ## APIs Used
 
-- [React](https://react.dev)
-- [Astro](https://astro.buid)
+- [`React`](https://react.dev)
+- [`Astro`](https://astro.buid)
 
 ## Stats Available
 
