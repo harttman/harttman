@@ -1,16 +1,18 @@
 <div align=center>
   
-  # Віталій Дяків
-  **Мій шлях кодера**
-  
+  # Harttman: Dakiv Vitaliy  
 </div>
 
-**Я розробник ігор та веб сайтів. Наразі займаюсь тільки іграми та створенням ботів. Мені ніколи не буває скучно!**
-**Ви також можете доєднатись до моїх розробок, разом ми будем краще!**
-## APIs Used
+## I know:
 
 - [`React`](https://react.dev)
 - [`Astro`](https://astro.buid)
+
+## I learn:
+
+- `Cpp`
+- `C`
+- `Algoritms and struct data`
 
 ## Stats Available
 
