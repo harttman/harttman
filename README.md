@@ -1,6 +1,6 @@
 <div align=center>
   
-  # Harttman: Dakiv Vitaliy  
+  # Harttman: Dyakiv Vitaly  
 </div>
 
 ## I know:
